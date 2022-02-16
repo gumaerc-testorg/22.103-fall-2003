@@ -1,5 +1,8 @@
 ---
 content_type: page
+learning_resource_types:
+- Lecture Notes
+ocw_type: CourseSection
 title: Lecture Notes
 uid: 752e6f54-9ebb-27af-884d-d40c6ac14db9
 ---
@@ -55,7 +58,7 @@ Diffusion: velocity autocorrelation - Green Kubo relations ([PDF]({{< baseurl >}
 4
 {{< tdclose >}}
 {{< tdopen >}}
-Diffusion: Van Hove self correlation function Gs(r,t) ([PDF]({{< baseurl >}}/resources/lec4))
+Diffusion: Van Hove self correlation function G{{< sub "s" >}}(r,t) ([PDF]({{< baseurl >}}/resources/lec4))
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -178,7 +181,7 @@ Linearized Boltzmann equation: relaxation time models
 17
 {{< tdclose >}}
 {{< tdopen >}}
-Kinetic theory of Gs(r,t) - Nelkin-Ghatak model
+Kinetic theory of G{{< sub "s" >}}(r,t) - Nelkin-Ghatak model
 {{< tdclose >}}
 
 {{< trclose >}}

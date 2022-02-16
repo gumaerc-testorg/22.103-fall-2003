@@ -1,5 +1,7 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 title: Calendar
 uid: 9ceddde8-cd57-d4e7-da1e-d6cb92e05d12
 ---
@@ -67,7 +69,7 @@ Diffusion: velocity autocorrelation - Green Kubo relations ([PDF]({{< baseurl >}
 4
 {{< tdclose >}}
 {{< tdopen >}}
-Diffusion: Van Hove self correlation function Gs(r,t) ([PDF]({{< baseurl >}}/resources/lec4))
+Diffusion: Van Hove self correlation function G{{< sub "s" >}}(r,t) ([PDF]({{< baseurl >}}/resources/lec4))
 {{< tdclose >}}
 {{< tdopen >}}
  
@@ -230,7 +232,7 @@ Problem Set 3 Due ([PDF]({{< baseurl >}}/resources/hw3))
 17
 {{< tdclose >}}
 {{< tdopen >}}
-Kinetic theory of Gs(r,t) - Nelkin-Ghatak model
+Kinetic theory of G{{< sub "s" >}}(r,t) - Nelkin-Ghatak model
 {{< tdclose >}}
 {{< tdopen >}}
 Problem Set 4 Issued ([PDF]({{< baseurl >}}/resources/hw4))

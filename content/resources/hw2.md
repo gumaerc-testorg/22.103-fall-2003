@@ -1,8 +1,13 @@
 ---
 content_type: resource
 description: ''
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/22-103-microscopic-theory-of-transport-fall-2003/5aa5114bddab73664c633443c79b6ea4_hw2.pdf
+file: /media/courses/22-103-microscopic-theory-of-transport-fall-2003/5aa5114bddab73664c633443c79b6ea4_hw2.pdf
 file_type: application/pdf
+learning_resource_types:
+- Assignments
+ocw_type: OCWFile
+parent_title: Assignments
+parent_type: CourseSection
 resourcetype: Document
 title: hw2.pdf
 uid: 5aa5114b-ddab-7366-4c63-3443c79b6ea4
