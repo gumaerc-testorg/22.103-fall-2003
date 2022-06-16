@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides the schedule of course topics and assignments.
+  Lecture notes and assignments are included.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Calendar
@@ -27,7 +29,7 @@ ASSIGNMENTS
 1
 {{< tdclose >}}
 {{< tdopen >}}
-Course Overview and Introduction ([PDF]({{< baseurl >}}/resources/lec1))
+Course Overview and Introduction ({{% resource_link 9888b4e4-adf1-fe61-14c8-2925f6a270f0 "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
  
@@ -45,7 +47,7 @@ Part I - Correlation Functions
 2
 {{< tdclose >}}
 {{< tdopen >}}
-Diffusion: mean square displacement ([PDF]({{< baseurl >}}/resources/lec2))
+Diffusion: mean square displacement ({{% resource_link 5d000420-19ee-7016-e625-ea28b70fcfc3 "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
  
@@ -57,7 +59,7 @@ Diffusion: mean square displacement ([PDF]({{< baseurl >}}/resources/lec2))
 3
 {{< tdclose >}}
 {{< tdopen >}}
-Diffusion: velocity autocorrelation - Green Kubo relations ([PDF]({{< baseurl >}}/resources/lec3))
+Diffusion: velocity autocorrelation - Green Kubo relations ({{% resource_link 42a7a0dd-cb94-eb23-f6c0-96ae04da0162 "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
  
@@ -69,7 +71,7 @@ Diffusion: velocity autocorrelation - Green Kubo relations ([PDF]({{< baseurl >}
 4
 {{< tdclose >}}
 {{< tdopen >}}
-Diffusion: Van Hove self correlation function G{{< sub "s" >}}(r,t) ([PDF]({{< baseurl >}}/resources/lec4))
+Diffusion: Van Hove self correlation function G{{< sub "s" >}}(r,t) ({{% resource_link dc5324c3-741c-7119-9e01-ff8d9c12b7d1 "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
  
@@ -81,10 +83,10 @@ Diffusion: Van Hove self correlation function G{{< sub "s" >}}(r,t) ([PDF]({{< b
 5
 {{< tdclose >}}
 {{< tdopen >}}
-The density correlation function G(r,t) ([PDF]({{< baseurl >}}/resources/lec5))
+The density correlation function G(r,t) ({{% resource_link 124df307-eb75-4bde-72eb-9a08073b8a63 "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
-Problem Set 1 Issued ([PDF]({{< baseurl >}}/resources/hw1))
+Problem Set 1 Issued ({{% resource_link 67709f59-f54d-d0ba-9b5a-db32d74a6ff8 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -93,11 +95,11 @@ Problem Set 1 Issued ([PDF]({{< baseurl >}}/resources/hw1))
 6
 {{< tdclose >}}
 {{< tdopen >}}
-Properties of time correlation functions ([PDF]({{< baseurl >}}/resources/lec6))
+Properties of time correlation functions ({{% resource_link 7a4e269d-651b-188a-78eb-1306ea1d9155 "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
-Problem Set 1 Due ([PDF]({{< baseurl >}}/resources/hw1))  
-Problem Set 2 Issued ([PDF]({{< baseurl >}}/resources/hw2))
+Problem Set 1 Due ({{% resource_link 67709f59-f54d-d0ba-9b5a-db32d74a6ff8 "PDF" %}})  
+Problem Set 2 Issued ({{% resource_link 5aa5114b-ddab-7366-4c63-3443c79b6ea4 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -145,7 +147,7 @@ Equations for G(r,t) and phase-space correlation
 Equations of hydrodynamics
 {{< tdclose >}}
 {{< tdopen >}}
-Problem Set 2 Due ([PDF]({{< baseurl >}}/resources/hw2))
+Problem Set 2 Due ({{% resource_link 5aa5114b-ddab-7366-4c63-3443c79b6ea4 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -157,7 +159,7 @@ Problem Set 2 Due ([PDF]({{< baseurl >}}/resources/hw2))
 Hydrodynamic theory of dynamic structure factor
 {{< tdclose >}}
 {{< tdopen >}}
-Problem Set 3 Issued ([PDF]({{< baseurl >}}/resources/hw3))
+Problem Set 3 Issued ({{% resource_link d87a3459-4239-e45a-57bb-ab318762c3e2 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -223,7 +225,7 @@ Boltzmann equation: H-theorem and equilibrium solution
 Linearized Boltzmann equation: relaxation time models
 {{< tdclose >}}
 {{< tdopen >}}
-Problem Set 3 Due ([PDF]({{< baseurl >}}/resources/hw3))
+Problem Set 3 Due ({{% resource_link d87a3459-4239-e45a-57bb-ab318762c3e2 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -235,7 +237,7 @@ Problem Set 3 Due ([PDF]({{< baseurl >}}/resources/hw3))
 Kinetic theory of G{{< sub "s" >}}(r,t) - Nelkin-Ghatak model
 {{< tdclose >}}
 {{< tdopen >}}
-Problem Set 4 Issued ([PDF]({{< baseurl >}}/resources/hw4))
+Problem Set 4 Issued ({{% resource_link 9bfe74ab-58f4-9fc6-2daa-20bc8d839514 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -283,7 +285,7 @@ Kinetic models, Boltzmann equation and neutron transport equation
 Linear response theory - complex susceptibility, fluctuation-dissipation theorem
 {{< tdclose >}}
 {{< tdopen >}}
-Problem Set 4 Due ([PDF]({{< baseurl >}}/resources/hw4))
+Problem Set 4 Due ({{% resource_link 9bfe74ab-58f4-9fc6-2daa-20bc8d839514 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -313,7 +315,7 @@ Part III - Atomistic Simulation of Transport and Related Phenomena
 Mean Free Path Treatment of Transport (viscosity, conductivity, diffusion)
 {{< tdclose >}}
 {{< tdopen >}}
-Problem Set 5 Issued ([PDF]({{< baseurl >}}/resources/hw5))
+Problem Set 5 Issued ({{% resource_link 4fc6ba44-f140-b31b-5503-e0d783d031c0 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -334,10 +336,10 @@ Continuation of Lecture 22
 25
 {{< tdclose >}}
 {{< tdopen >}}
-Role of atomistic simulations in transport ([PDF]({{< baseurl >}}/resources/lec25))
+Role of atomistic simulations in transport ({{% resource_link af9780fa-7b3a-f28f-bd99-75b0b8c9f0d4 "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
-Problem Set 5 Due ([PDF]({{< baseurl >}}/resources/hw5))
+Problem Set 5 Due ({{% resource_link 4fc6ba44-f140-b31b-5503-e0d783d031c0 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}

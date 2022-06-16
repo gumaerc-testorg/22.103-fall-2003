@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /media/courses/22-103-microscopic-theory-of-transport-fall-2003/67709f59f54dd0ba9b5adb32d74a6ff8_hw1.pdf
+file: /courses/22-103-microscopic-theory-of-transport-fall-2003/67709f59f54dd0ba9b5adb32d74a6ff8_hw1.pdf
 file_type: application/pdf
 learning_resource_types:
 - Assignments

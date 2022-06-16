@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: This section provides the lecture notes for the course.
 learning_resource_types:
 - Lecture Notes
 ocw_type: CourseSection
@@ -25,7 +26,7 @@ TOPICS
 1
 {{< tdclose >}}
 {{< tdopen >}}
-Course Overview and Introduction ([PDF]({{< baseurl >}}/resources/lec1))
+Course Overview and Introduction ({{% resource_link 9888b4e4-adf1-fe61-14c8-2925f6a270f0 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -40,7 +41,7 @@ Part I - Correlation Functions
 2
 {{< tdclose >}}
 {{< tdopen >}}
-Diffusion: mean square displacement ([PDF]({{< baseurl >}}/resources/lec2))
+Diffusion: mean square displacement ({{% resource_link 5d000420-19ee-7016-e625-ea28b70fcfc3 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -49,7 +50,7 @@ Diffusion: mean square displacement ([PDF]({{< baseurl >}}/resources/lec2))
 3
 {{< tdclose >}}
 {{< tdopen >}}
-Diffusion: velocity autocorrelation - Green Kubo relations ([PDF]({{< baseurl >}}/resources/lec3))
+Diffusion: velocity autocorrelation - Green Kubo relations ({{% resource_link 42a7a0dd-cb94-eb23-f6c0-96ae04da0162 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -58,7 +59,7 @@ Diffusion: velocity autocorrelation - Green Kubo relations ([PDF]({{< baseurl >}
 4
 {{< tdclose >}}
 {{< tdopen >}}
-Diffusion: Van Hove self correlation function G{{< sub "s" >}}(r,t) ([PDF]({{< baseurl >}}/resources/lec4))
+Diffusion: Van Hove self correlation function G{{< sub "s" >}}(r,t) ({{% resource_link dc5324c3-741c-7119-9e01-ff8d9c12b7d1 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -67,7 +68,7 @@ Diffusion: Van Hove self correlation function G{{< sub "s" >}}(r,t) ([PDF]({{< b
 5
 {{< tdclose >}}
 {{< tdopen >}}
-The density correlation function G(r,t) ([PDF]({{< baseurl >}}/resources/lec5))
+The density correlation function G(r,t) ({{% resource_link 124df307-eb75-4bde-72eb-9a08073b8a63 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -76,7 +77,7 @@ The density correlation function G(r,t) ([PDF]({{< baseurl >}}/resources/lec5))
 6
 {{< tdclose >}}
 {{< tdopen >}}
-Properties of time correlation functions ([PDF]({{< baseurl >}}/resources/lec6))
+Properties of time correlation functions ({{% resource_link 7a4e269d-651b-188a-78eb-1306ea1d9155 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -259,7 +260,7 @@ Continuation of Lecture 22
 25
 {{< tdclose >}}
 {{< tdopen >}}
-Role of atomistic simulations in transport ([PDF]({{< baseurl >}}/resources/lec25))
+Role of atomistic simulations in transport ({{% resource_link af9780fa-7b3a-f28f-bd99-75b0b8c9f0d4 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}

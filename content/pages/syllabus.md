@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This syllabus section provides information on course topics and general
+  references.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Syllabus
@@ -130,9 +132,9 @@ Class Presentation
 
 {{< tableclose >}}
 
-The course will be taught through class lectures. Written [lecture notes]({{< baseurl >}}/pages/lecture-notes) will be posted on the server.
+The course will be taught through class lectures. Written {{% resource_link 752e6f54-9ebb-27af-884d-d40c6ac14db9 "lecture notes" %}} will be posted on the server.
 
-There will be a few problem sets, a written quiz (after week 8), and at the end of the term a [term project]({{< baseurl >}}/pages/projects) (with presentation) and an oral exam.
+There will be a few problem sets, a written quiz (after week 8), and at the end of the term a {{% resource_link 477cf015-84b0-da88-4115-542ed54817e6 "term project" %}} (with presentation) and an oral exam.
 
 General References
 ------------------
