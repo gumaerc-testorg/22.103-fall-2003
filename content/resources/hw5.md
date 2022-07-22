@@ -5,6 +5,7 @@ file: /courses/22-103-microscopic-theory-of-transport-fall-2003/4fc6ba44f140b31b
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
