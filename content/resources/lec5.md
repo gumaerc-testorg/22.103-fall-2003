@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /courses/22-103-microscopic-theory-of-transport-fall-2003/124df307eb754bde72eb9a08073b8a63_lec5.pdf
+file: /ol-ocw-studio-app/courses/22-103-microscopic-theory-of-transport-fall-2003/124df307eb754bde72eb9a08073b8a63_lec5.pdf
 file_size: 141742
 file_type: application/pdf
 learning_resource_types:
